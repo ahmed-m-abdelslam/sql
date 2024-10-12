@@ -11,3 +11,6 @@ descending order
 categorizes actors based on the length of their combined first and last names. Use the 
 following categories: 'Short' (less than 10 characters), 'Medium' (between 10 and 15 
 characters), and 'Long' (more than 15 characters).
+
+7-  Count the number of rentals made each month. Display the month and the total number of 
+rentals. Include only months with more than 100 rentals. “ Try this one on your own”
