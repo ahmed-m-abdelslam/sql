@@ -14,3 +14,9 @@ characters), and 'Long' (more than 15 characters).
 
 7-  Count the number of rentals made each month. Display the month and the total number of 
 rentals. Include only months with more than 100 rentals. “ Try this one on your own”
+
+8- Find films that have the same length as a specific film. Display the title and length of films with 
+the same length as the film titled ‘ACE GOLDFINGER.’
+
+9- Identify the customer with the most rentals. Display the customer's first name, last name, and 
+the count of their rentals
