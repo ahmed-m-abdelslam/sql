@@ -7,3 +7,7 @@ or equal to $5.00.
 $10.00 and $15.00 (inclusive), and released in the years 2002 or 2005 or 2006
 5- Retrieve the titles and release years of films from the film table, ordered by release year in 
 descending order
+6- Retrieve the first and last names of actors from the actor table. Add a new column that 
+categorizes actors based on the length of their combined first and last names. Use the 
+following categories: 'Short' (less than 10 characters), 'Medium' (between 10 and 15 
+characters), and 'Long' (more than 15 characters).
