@@ -20,3 +20,6 @@ the same length as the film titled ‘ACE GOLDFINGER.’
 
 9- Identify the customer with the most rentals. Display the customer's first name, last name, and 
 the count of their rentals
+
+10- Obtain the names of the first 10 actors along with the IDs, and title of films in 
+which they have acted
