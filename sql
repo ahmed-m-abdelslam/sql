@@ -23,3 +23,12 @@ the count of their rentals
 
 10- Obtain the names of the first 10 actors along with the IDs, and title of films in 
 which they have acted
+
+
+
+Retrieve the names of customers and the amounts they paid, including customers who 
+have not made any payments.
+• Retrieve the titles of movies and the number of available copies in the inventory, 
+including movies that have no available copies.
+• Retrieve the names of actors and the number of movies they have acted in, including 
+actors who have not acted in any movies
